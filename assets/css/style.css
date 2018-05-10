@@ -128,3 +128,13 @@ input[type=submit]:hover {
 
     float: left;
 }
+
+.int-labels{
+     background-color: #4aaaa5;
+     opacity: 0.9;
+     color: white;
+     position: relative;
+     bottom: 100px;
+     width: auto;
+     padding: 2px;
+}
